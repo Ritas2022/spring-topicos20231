@@ -10,3 +10,5 @@ create table ant_anotacao (
   primary key (ant_id),
   foreign key ant_usr_fk (ant_usr_id) references usr_usuario(usr_id)
 );
+
+insert into ant_anotacao(ant_texto, ant_usr_id) values ('Teste', 1); 
