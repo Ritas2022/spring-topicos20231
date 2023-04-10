@@ -34,7 +34,7 @@ public class UsuarioController {
     public List<Usuario> buscarTodosUsuarios() {
         return service.buscarTodosUsuarios();
     }
-
+    
     @GetMapping(value = "/id/{usuario}")
     public Usuario buscarPorId(@PathVariable("usuario") Long id) {
         return service.buscarPorId(id);

@@ -39,5 +39,5 @@ public class AnotacaoService implements IAnotacaoService {
     public List<Anotacao> buscarTodas() {
         return anotacaoRepo.findAll();
     }
-
+    
 }
