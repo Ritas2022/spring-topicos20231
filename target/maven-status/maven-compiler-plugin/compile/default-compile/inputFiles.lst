@@ -1,0 +1,15 @@
+/workspace/spring-topicos20231/src/main/java/br/gov/sp/fatec/springtopicos20231/service/AnotacaoService.java
+/workspace/spring-topicos20231/src/main/java/br/gov/sp/fatec/springtopicos20231/controller/UsuarioController.java
+/workspace/spring-topicos20231/src/main/java/br/gov/sp/fatec/springtopicos20231/controller/AnotacaoController.java
+/workspace/spring-topicos20231/src/main/java/br/gov/sp/fatec/springtopicos20231/service/IUsuarioService.java
+/workspace/spring-topicos20231/src/main/java/br/gov/sp/fatec/springtopicos20231/exception/UsuarioNaoEncontradoException.java
+/workspace/spring-topicos20231/src/main/java/br/gov/sp/fatec/springtopicos20231/repository/AnotacaoRepository.java
+/workspace/spring-topicos20231/src/main/java/br/gov/sp/fatec/springtopicos20231/entity/Usuario.java
+/workspace/spring-topicos20231/src/main/java/br/gov/sp/fatec/springtopicos20231/service/UsuarioService.java
+/workspace/spring-topicos20231/src/main/java/br/gov/sp/fatec/springtopicos20231/service/IAnotacaoService.java
+/workspace/spring-topicos20231/src/main/java/br/gov/sp/fatec/springtopicos20231/entity/Autorizacao.java
+/workspace/spring-topicos20231/src/main/java/br/gov/sp/fatec/springtopicos20231/entity/Anotacao.java
+/workspace/spring-topicos20231/src/main/java/br/gov/sp/fatec/springtopicos20231/SpringTopicos20231Application.java
+/workspace/spring-topicos20231/src/main/java/br/gov/sp/fatec/springtopicos20231/controller/MainController.java
+/workspace/spring-topicos20231/src/main/java/br/gov/sp/fatec/springtopicos20231/repository/AutorizacaoRepository.java
+/workspace/spring-topicos20231/src/main/java/br/gov/sp/fatec/springtopicos20231/repository/UsuarioRepository.java
