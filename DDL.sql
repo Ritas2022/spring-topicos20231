@@ -1,7 +1,7 @@
 drop user if exists 'user'@'localhost';
-drop schema if exists anotacao;
+/*drop schema if exists anotacao;*/
 
-create schema anotacao;
+/*create schema anotacao;*/
 
 use anotacao;
 
